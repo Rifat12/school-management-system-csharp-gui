@@ -1,0 +1,421 @@
+D:\8th semester\project\schoool management system\schoool management system\bin\Debug\schoool management system.exe.config
+D:\8th semester\project\schoool management system\schoool management system\bin\Debug\schoool management system.exe
+D:\8th semester\project\schoool management system\schoool management system\bin\Debug\schoool management system.pdb
+D:\8th semester\project\schoool management system\schoool management system\obj\Debug\schoool management system.csprojAssemblyReference.cache
+D:\8th semester\project\schoool management system\schoool management system\obj\Debug\schoool_management_system.Dashboard.resources
+D:\8th semester\project\schoool management system\schoool management system\obj\Debug\schoool_management_system.Form1.resources
+D:\8th semester\project\schoool management system\schoool management system\obj\Debug\schoool_management_system.Properties.Resources.resources
+D:\8th semester\project\schoool management system\schoool management system\obj\Debug\schoool management system.csproj.GenerateResource.cache
+D:\8th semester\project\schoool management system\schoool management system\obj\Debug\schoool management system.csproj.CoreCompileInputs.cache
+D:\8th semester\project\schoool management system\schoool management system\obj\Debug\schoool management system.exe
+D:\8th semester\project\schoool management system\schoool management system\obj\Debug\schoool management system.pdb
+D:\8th semester\project\schoool management system\schoool management system\obj\Debug\schoool_management_system.Student_Registrationform.resources
+D:\8th semester\project\schoool management system\schoool management system\obj\Debug\schoool_management_system.New_Student_Registration_Form.resources
+E:\2021Pro\project\schoool management system\schoool management system\bin\Debug\schoool management system.exe.config
+E:\2021Pro\project\schoool management system\schoool management system\bin\Debug\schoool management system.exe
+E:\2021Pro\project\schoool management system\schoool management system\bin\Debug\schoool management system.pdb
+E:\2021Pro\project\schoool management system\schoool management system\obj\Debug\schoool management system.csprojAssemblyReference.cache
+E:\2021Pro\project\schoool management system\schoool management system\obj\Debug\schoool_management_system.Add_new_Class_Form.resources
+E:\2021Pro\project\schoool management system\schoool management system\obj\Debug\schoool_management_system.class_details_form.resources
+E:\2021Pro\project\schoool management system\schoool management system\obj\Debug\schoool_management_system.Dashboard.resources
+E:\2021Pro\project\schoool management system\schoool management system\obj\Debug\schoool_management_system.Form1.resources
+E:\2021Pro\project\schoool management system\schoool management system\obj\Debug\schoool_management_system.New_Student_Registration_Form.resources
+E:\2021Pro\project\schoool management system\schoool management system\obj\Debug\schoool_management_system.Properties.Resources.resources
+E:\2021Pro\project\schoool management system\schoool management system\obj\Debug\schoool_management_system.Student_Registrationform.resources
+E:\2021Pro\project\schoool management system\schoool management system\obj\Debug\schoool_management_system.update_class.resources
+E:\2021Pro\project\schoool management system\schoool management system\obj\Debug\schoool management system.csproj.GenerateResource.cache
+E:\2021Pro\project\schoool management system\schoool management system\obj\Debug\schoool management system.csproj.CoreCompileInputs.cache
+E:\2021Pro\project\schoool management system\schoool management system\obj\Debug\schoool management system.exe
+E:\2021Pro\project\schoool management system\schoool management system\obj\Debug\schoool management system.pdb
+E:\2021Pro\project\schoool management system\schoool management system\obj\Debug\schoool_management_system.Add_New_Employee_Form.resources
+E:\2021Pro\project\schoool management system\schoool management system\obj\Debug\schoool_management_system.Employee_Details_Form.resources
+E:\2021Pro\project\schoool management system\schoool management system\obj\Debug\schoool_management_system.Update_Employee_Form.resources
+H:\project_-_Copy\project - Copy\schoool management system\schoool management system\bin\Debug\schoool management system.exe.config
+H:\project_-_Copy\project - Copy\schoool management system\schoool management system\bin\Debug\schoool management system.exe
+H:\project_-_Copy\project - Copy\schoool management system\schoool management system\bin\Debug\schoool management system.pdb
+H:\project_-_Copy\project - Copy\schoool management system\schoool management system\obj\Debug\schoool management system.csprojAssemblyReference.cache
+H:\project_-_Copy\project - Copy\schoool management system\schoool management system\obj\Debug\schoool_management_system.Add_new_Class_Form.resources
+H:\project_-_Copy\project - Copy\schoool management system\schoool management system\obj\Debug\schoool_management_system.Add_New_Employee_Form.resources
+H:\project_-_Copy\project - Copy\schoool management system\schoool management system\obj\Debug\schoool_management_system.Add_New_Expences.resources
+H:\project_-_Copy\project - Copy\schoool management system\schoool management system\obj\Debug\schoool_management_system.class_details_form.resources
+H:\project_-_Copy\project - Copy\schoool management system\schoool management system\obj\Debug\schoool_management_system.Dashboard.resources
+H:\project_-_Copy\project - Copy\schoool management system\schoool management system\obj\Debug\schoool_management_system.Employee_Details_Form.resources
+H:\project_-_Copy\project - Copy\schoool management system\schoool management system\obj\Debug\schoool_management_system.Expences_details_form.resources
+H:\project_-_Copy\project - Copy\schoool management system\schoool management system\obj\Debug\schoool_management_system.Form1.resources
+H:\project_-_Copy\project - Copy\schoool management system\schoool management system\obj\Debug\schoool_management_system.New_Student_Registration_Form.resources
+H:\project_-_Copy\project - Copy\schoool management system\schoool management system\obj\Debug\schoool_management_system.Properties.Resources.resources
+H:\project_-_Copy\project - Copy\schoool management system\schoool management system\obj\Debug\schoool_management_system.Student_Registrationform.resources
+H:\project_-_Copy\project - Copy\schoool management system\schoool management system\obj\Debug\schoool_management_system.update_class.resources
+H:\project_-_Copy\project - Copy\schoool management system\schoool management system\obj\Debug\schoool_management_system.Update_Employee_Form.resources
+H:\project_-_Copy\project - Copy\schoool management system\schoool management system\obj\Debug\schoool management system.csproj.GenerateResource.cache
+H:\project_-_Copy\project - Copy\schoool management system\schoool management system\obj\Debug\schoool management system.exe
+H:\project_-_Copy\project - Copy\schoool management system\schoool management system\obj\Debug\schoool management system.pdb
+H:\project_-_Copy\project - Copy\schoool management system\schoool management system\obj\Debug\schoool_management_system.Salary_Form.resources
+H:\project_-_Copy\project - Copy\schoool management system\schoool management system\obj\Debug\schoool_management_system.Salary_Details_Form.resources
+H:\project_-_Copy\project - Copy\schoool management system\schoool management system\obj\Debug\schoool_management_system.update_Salary.resources
+E:\2021Pro\project - Copy\schoool management system\schoool management system\bin\Debug\schoool management system.exe.config
+E:\2021Pro\project - Copy\schoool management system\schoool management system\bin\Debug\schoool management system.exe
+E:\2021Pro\project - Copy\schoool management system\schoool management system\bin\Debug\schoool management system.pdb
+E:\2021Pro\project - Copy\schoool management system\schoool management system\obj\Debug\schoool management system.csprojAssemblyReference.cache
+E:\2021Pro\project - Copy\schoool management system\schoool management system\obj\Debug\schoool_management_system.Add_new_Class_Form.resources
+E:\2021Pro\project - Copy\schoool management system\schoool management system\obj\Debug\schoool_management_system.Add_New_Employee_Form.resources
+E:\2021Pro\project - Copy\schoool management system\schoool management system\obj\Debug\schoool_management_system.Add_New_Expences.resources
+E:\2021Pro\project - Copy\schoool management system\schoool management system\obj\Debug\schoool_management_system.class_details_form.resources
+E:\2021Pro\project - Copy\schoool management system\schoool management system\obj\Debug\schoool_management_system.Dashboard.resources
+E:\2021Pro\project - Copy\schoool management system\schoool management system\obj\Debug\schoool_management_system.Employee_Details_Form.resources
+E:\2021Pro\project - Copy\schoool management system\schoool management system\obj\Debug\schoool_management_system.Expences_details_form.resources
+E:\2021Pro\project - Copy\schoool management system\schoool management system\obj\Debug\schoool_management_system.Form1.resources
+E:\2021Pro\project - Copy\schoool management system\schoool management system\obj\Debug\schoool_management_system.New_Student_Registration_Form.resources
+E:\2021Pro\project - Copy\schoool management system\schoool management system\obj\Debug\schoool_management_system.Properties.Resources.resources
+E:\2021Pro\project - Copy\schoool management system\schoool management system\obj\Debug\schoool_management_system.Salary_Form.resources
+E:\2021Pro\project - Copy\schoool management system\schoool management system\obj\Debug\schoool_management_system.Salary_Details_Form.resources
+E:\2021Pro\project - Copy\schoool management system\schoool management system\obj\Debug\schoool_management_system.Student_Registrationform.resources
+E:\2021Pro\project - Copy\schoool management system\schoool management system\obj\Debug\schoool_management_system.update_class.resources
+E:\2021Pro\project - Copy\schoool management system\schoool management system\obj\Debug\schoool_management_system.Update_Employee_Form.resources
+E:\2021Pro\project - Copy\schoool management system\schoool management system\obj\Debug\schoool_management_system.update_Salary.resources
+E:\2021Pro\project - Copy\schoool management system\schoool management system\obj\Debug\schoool management system.csproj.GenerateResource.cache
+E:\2021Pro\project - Copy\schoool management system\schoool management system\obj\Debug\schoool management system.csproj.CoreCompileInputs.cache
+E:\2021Pro\project - Copy\schoool management system\schoool management system\obj\Debug\schoool management system.exe
+E:\2021Pro\project - Copy\schoool management system\schoool management system\obj\Debug\schoool management system.pdb
+C:\Users\joard\Downloads\projectDesignFixV1.0\schoool management system\schoool management system\obj\Debug\schoool management system.csprojAssemblyReference.cache
+C:\Users\joard\Downloads\projectDesignFixV1.0\schoool management system\schoool management system\obj\Debug\schoool_management_system.Add_new_Class_Form.resources
+C:\Users\joard\Downloads\projectDesignFixV1.0\schoool management system\schoool management system\obj\Debug\schoool_management_system.Add_New_Employee_Form.resources
+C:\Users\joard\Downloads\projectDesignFixV1.0\schoool management system\schoool management system\obj\Debug\schoool_management_system.Add_New_Expences.resources
+C:\Users\joard\Downloads\projectDesignFixV1.0\schoool management system\schoool management system\obj\Debug\schoool_management_system.class_details_form.resources
+C:\Users\joard\Downloads\projectDesignFixV1.0\schoool management system\schoool management system\obj\Debug\schoool_management_system.Dashboard.resources
+C:\Users\joard\Downloads\projectDesignFixV1.0\schoool management system\schoool management system\obj\Debug\schoool_management_system.Employee_Details_Form.resources
+C:\Users\joard\Downloads\projectDesignFixV1.0\schoool management system\schoool management system\obj\Debug\schoool_management_system.Expences_details_form.resources
+C:\Users\joard\Downloads\projectDesignFixV1.0\schoool management system\schoool management system\obj\Debug\schoool_management_system.Form1.resources
+C:\Users\joard\Downloads\projectDesignFixV1.0\schoool management system\schoool management system\obj\Debug\schoool_management_system.New_Student_Registration_Form.resources
+C:\Users\joard\Downloads\projectDesignFixV1.0\schoool management system\schoool management system\obj\Debug\schoool_management_system.Properties.Resources.resources
+C:\Users\joard\Downloads\projectDesignFixV1.0\schoool management system\schoool management system\obj\Debug\schoool_management_system.Salary_Form.resources
+C:\Users\joard\Downloads\projectDesignFixV1.0\schoool management system\schoool management system\obj\Debug\schoool_management_system.Salary_Details_Form.resources
+C:\Users\joard\Downloads\projectDesignFixV1.0\schoool management system\schoool management system\obj\Debug\schoool_management_system.Student_Registrationform.resources
+C:\Users\joard\Downloads\projectDesignFixV1.0\schoool management system\schoool management system\obj\Debug\schoool_management_system.update_class.resources
+C:\Users\joard\Downloads\projectDesignFixV1.0\schoool management system\schoool management system\obj\Debug\schoool_management_system.Update_Employee_Form.resources
+C:\Users\joard\Downloads\projectDesignFixV1.0\schoool management system\schoool management system\obj\Debug\schoool_management_system.update_Salary.resources
+C:\Users\joard\Downloads\projectDesignFixV1.0\schoool management system\schoool management system\obj\Debug\schoool management system.csproj.GenerateResource.cache
+C:\Users\joard\Downloads\projectDesignFixV1.0\schoool management system\schoool management system\obj\Debug\schoool management system.csproj.CoreCompileInputs.cache
+C:\Users\joard\Downloads\projectDesignFixV1.0\schoool management system\schoool management system\obj\Debug\schoool management system.exe
+C:\Users\joard\Downloads\projectDesignFixV1.0\schoool management system\schoool management system\obj\Debug\schoool management system.pdb
+C:\Users\joard\Downloads\projectDesignFixV1.0\schoool management system\schoool management system\bin\Debug\schoool management system.exe.config
+C:\Users\joard\Downloads\projectDesignFixV1.0\schoool management system\schoool management system\bin\Debug\schoool management system.exe
+C:\Users\joard\Downloads\projectDesignFixV1.0\schoool management system\schoool management system\bin\Debug\schoool management system.pdb
+D:\8th semester\projectDesignFixV1.0\schoool management system\schoool management system\obj\Debug\schoool management system.csprojAssemblyReference.cache
+D:\8th semester\projectDesignFixV1.0\schoool management system\schoool management system\obj\Debug\schoool_management_system.Add_new_Class_Form.resources
+D:\8th semester\projectDesignFixV1.0\schoool management system\schoool management system\obj\Debug\schoool_management_system.Add_New_Employee_Form.resources
+D:\8th semester\projectDesignFixV1.0\schoool management system\schoool management system\obj\Debug\schoool_management_system.Add_New_Expences.resources
+D:\8th semester\projectDesignFixV1.0\schoool management system\schoool management system\obj\Debug\schoool_management_system.class_details_form.resources
+D:\8th semester\projectDesignFixV1.0\schoool management system\schoool management system\obj\Debug\schoool_management_system.Dashboard.resources
+D:\8th semester\projectDesignFixV1.0\schoool management system\schoool management system\obj\Debug\schoool_management_system.Employee_Details_Form.resources
+D:\8th semester\projectDesignFixV1.0\schoool management system\schoool management system\obj\Debug\schoool_management_system.Expences_details_form.resources
+D:\8th semester\projectDesignFixV1.0\schoool management system\schoool management system\obj\Debug\schoool_management_system.Form1.resources
+D:\8th semester\projectDesignFixV1.0\schoool management system\schoool management system\obj\Debug\schoool_management_system.New_Student_Registration_Form.resources
+D:\8th semester\projectDesignFixV1.0\schoool management system\schoool management system\obj\Debug\schoool_management_system.Properties.Resources.resources
+D:\8th semester\projectDesignFixV1.0\schoool management system\schoool management system\obj\Debug\schoool_management_system.Salary_Form.resources
+D:\8th semester\projectDesignFixV1.0\schoool management system\schoool management system\obj\Debug\schoool_management_system.Salary_Details_Form.resources
+D:\8th semester\projectDesignFixV1.0\schoool management system\schoool management system\obj\Debug\schoool_management_system.Student_Registrationform.resources
+D:\8th semester\projectDesignFixV1.0\schoool management system\schoool management system\obj\Debug\schoool_management_system.update_class.resources
+D:\8th semester\projectDesignFixV1.0\schoool management system\schoool management system\obj\Debug\schoool_management_system.Update_Employee_Form.resources
+D:\8th semester\projectDesignFixV1.0\schoool management system\schoool management system\obj\Debug\schoool_management_system.update_Salary.resources
+D:\8th semester\projectDesignFixV1.0\schoool management system\schoool management system\obj\Debug\schoool management system.csproj.GenerateResource.cache
+D:\8th semester\projectDesignFixV1.0\schoool management system\schoool management system\obj\Debug\schoool management system.csproj.CoreCompileInputs.cache
+D:\8th semester\projectDesignFixV1.0\schoool management system\schoool management system\obj\Debug\schoool management system.exe
+D:\8th semester\projectDesignFixV1.0\schoool management system\schoool management system\obj\Debug\schoool management system.pdb
+C:\Users\joard\Downloads\projectDesignFixV2.0\projectDesignFixV1.0\schoool management system\schoool management system\bin\Debug\schoool management system.exe.config
+C:\Users\joard\Downloads\projectDesignFixV2.0\projectDesignFixV1.0\schoool management system\schoool management system\bin\Debug\schoool management system.exe
+C:\Users\joard\Downloads\projectDesignFixV2.0\projectDesignFixV1.0\schoool management system\schoool management system\bin\Debug\schoool management system.pdb
+C:\Users\joard\Downloads\projectDesignFixV2.0\projectDesignFixV1.0\schoool management system\schoool management system\obj\Debug\schoool management system.csprojAssemblyReference.cache
+C:\Users\joard\Downloads\projectDesignFixV2.0\projectDesignFixV1.0\schoool management system\schoool management system\obj\Debug\schoool_management_system.Add_new_Class_Form.resources
+C:\Users\joard\Downloads\projectDesignFixV2.0\projectDesignFixV1.0\schoool management system\schoool management system\obj\Debug\schoool_management_system.Add_New_Employee_Form.resources
+C:\Users\joard\Downloads\projectDesignFixV2.0\projectDesignFixV1.0\schoool management system\schoool management system\obj\Debug\schoool_management_system.Add_New_Expences.resources
+C:\Users\joard\Downloads\projectDesignFixV2.0\projectDesignFixV1.0\schoool management system\schoool management system\obj\Debug\schoool_management_system.class_details_form.resources
+C:\Users\joard\Downloads\projectDesignFixV2.0\projectDesignFixV1.0\schoool management system\schoool management system\obj\Debug\schoool_management_system.Dashboard.resources
+C:\Users\joard\Downloads\projectDesignFixV2.0\projectDesignFixV1.0\schoool management system\schoool management system\obj\Debug\schoool_management_system.Employee_Details_Form.resources
+C:\Users\joard\Downloads\projectDesignFixV2.0\projectDesignFixV1.0\schoool management system\schoool management system\obj\Debug\schoool_management_system.Expences_details_form.resources
+C:\Users\joard\Downloads\projectDesignFixV2.0\projectDesignFixV1.0\schoool management system\schoool management system\obj\Debug\schoool_management_system.Form1.resources
+C:\Users\joard\Downloads\projectDesignFixV2.0\projectDesignFixV1.0\schoool management system\schoool management system\obj\Debug\schoool_management_system.New_Student_Registration_Form.resources
+C:\Users\joard\Downloads\projectDesignFixV2.0\projectDesignFixV1.0\schoool management system\schoool management system\obj\Debug\schoool_management_system.Properties.Resources.resources
+C:\Users\joard\Downloads\projectDesignFixV2.0\projectDesignFixV1.0\schoool management system\schoool management system\obj\Debug\schoool_management_system.Salary_Form.resources
+C:\Users\joard\Downloads\projectDesignFixV2.0\projectDesignFixV1.0\schoool management system\schoool management system\obj\Debug\schoool_management_system.Salary_Details_Form.resources
+C:\Users\joard\Downloads\projectDesignFixV2.0\projectDesignFixV1.0\schoool management system\schoool management system\obj\Debug\schoool_management_system.Student_Registrationform.resources
+C:\Users\joard\Downloads\projectDesignFixV2.0\projectDesignFixV1.0\schoool management system\schoool management system\obj\Debug\schoool_management_system.update_class.resources
+C:\Users\joard\Downloads\projectDesignFixV2.0\projectDesignFixV1.0\schoool management system\schoool management system\obj\Debug\schoool_management_system.Update_Employee_Form.resources
+C:\Users\joard\Downloads\projectDesignFixV2.0\projectDesignFixV1.0\schoool management system\schoool management system\obj\Debug\schoool_management_system.update_Salary.resources
+C:\Users\joard\Downloads\projectDesignFixV2.0\projectDesignFixV1.0\schoool management system\schoool management system\obj\Debug\schoool management system.csproj.GenerateResource.cache
+C:\Users\joard\Downloads\projectDesignFixV2.0\projectDesignFixV1.0\schoool management system\schoool management system\obj\Debug\schoool management system.csproj.CoreCompileInputs.cache
+C:\Users\joard\Downloads\projectDesignFixV2.0\projectDesignFixV1.0\schoool management system\schoool management system\obj\Debug\schoool management system.exe
+C:\Users\joard\Downloads\projectDesignFixV2.0\projectDesignFixV1.0\schoool management system\schoool management system\obj\Debug\schoool management system.pdb
+D:\8th semester\projectDesignFixV1.0\schoool management system\schoool management system\bin\Debug\schoool management system.exe.config
+D:\8th semester\projectDesignFixV1.0\schoool management system\schoool management system\bin\Debug\schoool management system.exe
+D:\8th semester\projectDesignFixV1.0\schoool management system\schoool management system\bin\Debug\schoool management system.pdb
+F:\IDM\Compressed\projectDesignFixV1.0\schoool management system\schoool management system\bin\Debug\schoool management system.exe.config
+F:\IDM\Compressed\projectDesignFixV1.0\schoool management system\schoool management system\bin\Debug\schoool management system.exe
+F:\IDM\Compressed\projectDesignFixV1.0\schoool management system\schoool management system\bin\Debug\schoool management system.pdb
+F:\IDM\Compressed\projectDesignFixV1.0\schoool management system\schoool management system\obj\Debug\schoool management system.csprojAssemblyReference.cache
+F:\IDM\Compressed\projectDesignFixV1.0\schoool management system\schoool management system\obj\Debug\schoool_management_system.Add_new_Class_Form.resources
+F:\IDM\Compressed\projectDesignFixV1.0\schoool management system\schoool management system\obj\Debug\schoool_management_system.Add_New_Employee_Form.resources
+F:\IDM\Compressed\projectDesignFixV1.0\schoool management system\schoool management system\obj\Debug\schoool_management_system.Add_New_Expences.resources
+F:\IDM\Compressed\projectDesignFixV1.0\schoool management system\schoool management system\obj\Debug\schoool_management_system.class_details_form.resources
+F:\IDM\Compressed\projectDesignFixV1.0\schoool management system\schoool management system\obj\Debug\schoool_management_system.Dashboard.resources
+F:\IDM\Compressed\projectDesignFixV1.0\schoool management system\schoool management system\obj\Debug\schoool_management_system.Employee_Details_Form.resources
+F:\IDM\Compressed\projectDesignFixV1.0\schoool management system\schoool management system\obj\Debug\schoool_management_system.Expences_details_form.resources
+F:\IDM\Compressed\projectDesignFixV1.0\schoool management system\schoool management system\obj\Debug\schoool_management_system.Form1.resources
+F:\IDM\Compressed\projectDesignFixV1.0\schoool management system\schoool management system\obj\Debug\schoool_management_system.Properties.Resources.resources
+F:\IDM\Compressed\projectDesignFixV1.0\schoool management system\schoool management system\obj\Debug\schoool_management_system.Salary_Form.resources
+F:\IDM\Compressed\projectDesignFixV1.0\schoool management system\schoool management system\obj\Debug\schoool_management_system.Salary_Details_Form.resources
+F:\IDM\Compressed\projectDesignFixV1.0\schoool management system\schoool management system\obj\Debug\schoool_management_system.Student_Registrationform.resources
+F:\IDM\Compressed\projectDesignFixV1.0\schoool management system\schoool management system\obj\Debug\schoool_management_system.update_class.resources
+F:\IDM\Compressed\projectDesignFixV1.0\schoool management system\schoool management system\obj\Debug\schoool_management_system.Update_Employee_Form.resources
+F:\IDM\Compressed\projectDesignFixV1.0\schoool management system\schoool management system\obj\Debug\schoool_management_system.update_Salary.resources
+F:\IDM\Compressed\projectDesignFixV1.0\schoool management system\schoool management system\obj\Debug\schoool management system.csproj.GenerateResource.cache
+F:\IDM\Compressed\projectDesignFixV1.0\schoool management system\schoool management system\obj\Debug\schoool management system.csproj.CoreCompileInputs.cache
+F:\IDM\Compressed\projectDesignFixV1.0\schoool management system\schoool management system\obj\Debug\schoool management system.exe
+F:\IDM\Compressed\projectDesignFixV1.0\schoool management system\schoool management system\obj\Debug\schoool management system.pdb
+E:\Csharp\New folder\schoool management system\schoool management system\bin\Debug\schoool management system.exe.config
+E:\Csharp\New folder\schoool management system\schoool management system\bin\Debug\schoool management system.exe
+E:\Csharp\New folder\schoool management system\schoool management system\bin\Debug\schoool management system.pdb
+E:\Csharp\New folder\schoool management system\schoool management system\obj\Debug\schoool management system.csprojAssemblyReference.cache
+E:\Csharp\New folder\schoool management system\schoool management system\obj\Debug\schoool_management_system.Add_New_Expences.resources
+E:\Csharp\New folder\schoool management system\schoool management system\obj\Debug\schoool_management_system.class_details_form.resources
+E:\Csharp\New folder\schoool management system\schoool management system\obj\Debug\schoool_management_system.Dashboard.resources
+E:\Csharp\New folder\schoool management system\schoool management system\obj\Debug\schoool_management_system.Employee_Details_Form.resources
+E:\Csharp\New folder\schoool management system\schoool management system\obj\Debug\schoool_management_system.Expences_details_form.resources
+E:\Csharp\New folder\schoool management system\schoool management system\obj\Debug\schoool_management_system.Form1.resources
+E:\Csharp\New folder\schoool management system\schoool management system\obj\Debug\schoool_management_system.Properties.Resources.resources
+E:\Csharp\New folder\schoool management system\schoool management system\obj\Debug\schoool_management_system.Salary_Form.resources
+E:\Csharp\New folder\schoool management system\schoool management system\obj\Debug\schoool_management_system.Salary_Details_Form.resources
+E:\Csharp\New folder\schoool management system\schoool management system\obj\Debug\schoool_management_system.Student_Registrationform.resources
+E:\Csharp\New folder\schoool management system\schoool management system\obj\Debug\schoool_management_system.update_Salary.resources
+E:\Csharp\New folder\schoool management system\schoool management system\obj\Debug\schoool management system.csproj.GenerateResource.cache
+E:\Csharp\New folder\schoool management system\schoool management system\obj\Debug\schoool management system.csproj.CoreCompileInputs.cache
+E:\Csharp\New folder\schoool management system\schoool management system\obj\Debug\schoool management system.exe
+E:\Csharp\New folder\schoool management system\schoool management system\obj\Debug\schoool management system.pdb
+E:\Csharp\New folder\schoool management system\schoool management system\obj\Debug\schoool_management_system.teacher_details_form.resources
+D:\8th semester\Hero_Alam-2.2\schoool management system\schoool management system\bin\Debug\schoool management system.exe.config
+D:\8th semester\Hero_Alam-2.2\schoool management system\schoool management system\bin\Debug\schoool management system.exe
+D:\8th semester\Hero_Alam-2.2\schoool management system\schoool management system\bin\Debug\schoool management system.pdb
+D:\8th semester\Hero_Alam-2.2\schoool management system\schoool management system\obj\Debug\schoool management system.csprojAssemblyReference.cache
+D:\8th semester\Hero_Alam-2.2\schoool management system\schoool management system\obj\Debug\schoool_management_system.class_details_form.resources
+D:\8th semester\Hero_Alam-2.2\schoool management system\schoool management system\obj\Debug\schoool_management_system.Dashboard.resources
+D:\8th semester\Hero_Alam-2.2\schoool management system\schoool management system\obj\Debug\schoool_management_system.Employee_Details_Form.resources
+D:\8th semester\Hero_Alam-2.2\schoool management system\schoool management system\obj\Debug\schoool_management_system.Expences_details_form.resources
+D:\8th semester\Hero_Alam-2.2\schoool management system\schoool management system\obj\Debug\schoool_management_system.Form1.resources
+D:\8th semester\Hero_Alam-2.2\schoool management system\schoool management system\obj\Debug\schoool_management_system.Properties.Resources.resources
+D:\8th semester\Hero_Alam-2.2\schoool management system\schoool management system\obj\Debug\schoool_management_system.Salary_Details_Form.resources
+D:\8th semester\Hero_Alam-2.2\schoool management system\schoool management system\obj\Debug\schoool_management_system.Student_Registrationform.resources
+D:\8th semester\Hero_Alam-2.2\schoool management system\schoool management system\obj\Debug\schoool_management_system.teacher_details_form.resources
+D:\8th semester\Hero_Alam-2.2\schoool management system\schoool management system\obj\Debug\schoool management system.csproj.GenerateResource.cache
+D:\8th semester\Hero_Alam-2.2\schoool management system\schoool management system\obj\Debug\schoool management system.csproj.CoreCompileInputs.cache
+D:\8th semester\Hero_Alam-2.2\schoool management system\schoool management system\obj\Debug\schoool management system.exe
+D:\8th semester\Hero_Alam-2.2\schoool management system\schoool management system\obj\Debug\schoool management system.pdb
+C:\Users\joard\Downloads\Hero_Alam-2.3\schoool management system\schoool management system\obj\Debug\schoool management system.csprojAssemblyReference.cache
+C:\Users\joard\Downloads\Hero_Alam-2.3\schoool management system\schoool management system\obj\Debug\schoool_management_system.class_details_form.resources
+C:\Users\joard\Downloads\Hero_Alam-2.3\schoool management system\schoool management system\obj\Debug\schoool_management_system.Dashboard.resources
+C:\Users\joard\Downloads\Hero_Alam-2.3\schoool management system\schoool management system\obj\Debug\schoool_management_system.Employee_Details_Form.resources
+C:\Users\joard\Downloads\Hero_Alam-2.3\schoool management system\schoool management system\obj\Debug\schoool_management_system.Expences_details_form.resources
+C:\Users\joard\Downloads\Hero_Alam-2.3\schoool management system\schoool management system\obj\Debug\schoool_management_system.Form1.resources
+C:\Users\joard\Downloads\Hero_Alam-2.3\schoool management system\schoool management system\obj\Debug\schoool_management_system.Properties.Resources.resources
+C:\Users\joard\Downloads\Hero_Alam-2.3\schoool management system\schoool management system\obj\Debug\schoool_management_system.Salary_Details_Form.resources
+C:\Users\joard\Downloads\Hero_Alam-2.3\schoool management system\schoool management system\obj\Debug\schoool_management_system.Student_Registrationform.resources
+C:\Users\joard\Downloads\Hero_Alam-2.3\schoool management system\schoool management system\obj\Debug\schoool_management_system.teacher_details_form.resources
+C:\Users\joard\Downloads\Hero_Alam-2.3\schoool management system\schoool management system\obj\Debug\schoool management system.csproj.GenerateResource.cache
+C:\Users\joard\Downloads\Hero_Alam-2.3\schoool management system\schoool management system\obj\Debug\schoool management system.csproj.CoreCompileInputs.cache
+C:\Users\joard\Downloads\Hero_Alam-2.3\schoool management system\schoool management system\obj\Debug\schoool management system.exe
+C:\Users\joard\Downloads\Hero_Alam-2.3\schoool management system\schoool management system\obj\Debug\schoool management system.pdb
+C:\Users\joard\Downloads\Hero_Alam-2.3\schoool management system\schoool management system\bin\Debug\schoool management system.exe.config
+C:\Users\joard\Downloads\Hero_Alam-2.3\schoool management system\schoool management system\bin\Debug\schoool management system.exe
+C:\Users\joard\Downloads\Hero_Alam-2.3\schoool management system\schoool management system\bin\Debug\schoool management system.pdb
+D:\8th semester\Hero_Alam-2.4\schoool management system\schoool management system\bin\Debug\schoool management system.exe.config
+D:\8th semester\Hero_Alam-2.4\schoool management system\schoool management system\bin\Debug\schoool management system.exe
+D:\8th semester\Hero_Alam-2.4\schoool management system\schoool management system\bin\Debug\schoool management system.pdb
+D:\8th semester\Hero_Alam-2.4\schoool management system\schoool management system\obj\Debug\schoool management system.csprojAssemblyReference.cache
+D:\8th semester\Hero_Alam-2.4\schoool management system\schoool management system\obj\Debug\schoool_management_system.class_details_form.resources
+D:\8th semester\Hero_Alam-2.4\schoool management system\schoool management system\obj\Debug\schoool_management_system.Dashboard.resources
+D:\8th semester\Hero_Alam-2.4\schoool management system\schoool management system\obj\Debug\schoool_management_system.Employee_Details_Form.resources
+D:\8th semester\Hero_Alam-2.4\schoool management system\schoool management system\obj\Debug\schoool_management_system.Expences_details_form.resources
+D:\8th semester\Hero_Alam-2.4\schoool management system\schoool management system\obj\Debug\schoool_management_system.Form1.resources
+D:\8th semester\Hero_Alam-2.4\schoool management system\schoool management system\obj\Debug\schoool_management_system.Properties.Resources.resources
+D:\8th semester\Hero_Alam-2.4\schoool management system\schoool management system\obj\Debug\schoool_management_system.Salary_Details_Form.resources
+D:\8th semester\Hero_Alam-2.4\schoool management system\schoool management system\obj\Debug\schoool_management_system.Student_Registrationform.resources
+D:\8th semester\Hero_Alam-2.4\schoool management system\schoool management system\obj\Debug\schoool_management_system.teacher_details_form.resources
+D:\8th semester\Hero_Alam-2.4\schoool management system\schoool management system\obj\Debug\schoool management system.csproj.GenerateResource.cache
+D:\8th semester\Hero_Alam-2.4\schoool management system\schoool management system\obj\Debug\schoool management system.csproj.CoreCompileInputs.cache
+D:\8th semester\Hero_Alam-2.4\schoool management system\schoool management system\obj\Debug\schoool management system.exe
+D:\8th semester\Hero_Alam-2.4\schoool management system\schoool management system\obj\Debug\schoool management system.pdb
+F:\IDM\Compressed\Hero_Alam-2.5\schoool management system\schoool management system\bin\Debug\schoool management system.exe.config
+F:\IDM\Compressed\Hero_Alam-2.5\schoool management system\schoool management system\bin\Debug\schoool management system.exe
+F:\IDM\Compressed\Hero_Alam-2.5\schoool management system\schoool management system\bin\Debug\schoool management system.pdb
+F:\IDM\Compressed\Hero_Alam-2.5\schoool management system\schoool management system\obj\Debug\schoool management system.csprojAssemblyReference.cache
+F:\IDM\Compressed\Hero_Alam-2.5\schoool management system\schoool management system\obj\Debug\schoool_management_system.class_details_form.resources
+F:\IDM\Compressed\Hero_Alam-2.5\schoool management system\schoool management system\obj\Debug\schoool_management_system.Dashboard.resources
+F:\IDM\Compressed\Hero_Alam-2.5\schoool management system\schoool management system\obj\Debug\schoool_management_system.Employee_Details_Form.resources
+F:\IDM\Compressed\Hero_Alam-2.5\schoool management system\schoool management system\obj\Debug\schoool_management_system.Expences_details_form.resources
+F:\IDM\Compressed\Hero_Alam-2.5\schoool management system\schoool management system\obj\Debug\schoool_management_system.Form1.resources
+F:\IDM\Compressed\Hero_Alam-2.5\schoool management system\schoool management system\obj\Debug\schoool_management_system.Properties.Resources.resources
+F:\IDM\Compressed\Hero_Alam-2.5\schoool management system\schoool management system\obj\Debug\schoool_management_system.Salary_Details_Form.resources
+F:\IDM\Compressed\Hero_Alam-2.5\schoool management system\schoool management system\obj\Debug\schoool_management_system.Student_Registrationform.resources
+F:\IDM\Compressed\Hero_Alam-2.5\schoool management system\schoool management system\obj\Debug\schoool_management_system.teacher_details_form.resources
+F:\IDM\Compressed\Hero_Alam-2.5\schoool management system\schoool management system\obj\Debug\schoool management system.csproj.GenerateResource.cache
+F:\IDM\Compressed\Hero_Alam-2.5\schoool management system\schoool management system\obj\Debug\schoool management system.csproj.CoreCompileInputs.cache
+F:\IDM\Compressed\Hero_Alam-2.5\schoool management system\schoool management system\obj\Debug\schoool management system.exe
+F:\IDM\Compressed\Hero_Alam-2.5\schoool management system\schoool management system\obj\Debug\schoool management system.pdb
+E:\Csharp\Hero_Alam-2.6\schoool management system\schoool management system\bin\Debug\schoool management system.exe.config
+E:\Csharp\Hero_Alam-2.6\schoool management system\schoool management system\bin\Debug\schoool management system.exe
+E:\Csharp\Hero_Alam-2.6\schoool management system\schoool management system\bin\Debug\schoool management system.pdb
+E:\Csharp\Hero_Alam-2.6\schoool management system\schoool management system\obj\Debug\schoool management system.csprojAssemblyReference.cache
+E:\Csharp\Hero_Alam-2.6\schoool management system\schoool management system\obj\Debug\schoool_management_system.class_details_form.resources
+E:\Csharp\Hero_Alam-2.6\schoool management system\schoool management system\obj\Debug\schoool_management_system.Dashboard.resources
+E:\Csharp\Hero_Alam-2.6\schoool management system\schoool management system\obj\Debug\schoool_management_system.Employee_Details_Form.resources
+E:\Csharp\Hero_Alam-2.6\schoool management system\schoool management system\obj\Debug\schoool_management_system.Expences_details_form.resources
+E:\Csharp\Hero_Alam-2.6\schoool management system\schoool management system\obj\Debug\schoool_management_system.Form1.resources
+E:\Csharp\Hero_Alam-2.6\schoool management system\schoool management system\obj\Debug\schoool_management_system.Properties.Resources.resources
+E:\Csharp\Hero_Alam-2.6\schoool management system\schoool management system\obj\Debug\schoool_management_system.Salary_Details_Form.resources
+E:\Csharp\Hero_Alam-2.6\schoool management system\schoool management system\obj\Debug\schoool_management_system.Student_Registrationform.resources
+E:\Csharp\Hero_Alam-2.6\schoool management system\schoool management system\obj\Debug\schoool_management_system.teacher_details_form.resources
+E:\Csharp\Hero_Alam-2.6\schoool management system\schoool management system\obj\Debug\schoool management system.csproj.GenerateResource.cache
+E:\Csharp\Hero_Alam-2.6\schoool management system\schoool management system\obj\Debug\schoool management system.csproj.CoreCompileInputs.cache
+E:\Csharp\Hero_Alam-2.6\schoool management system\schoool management system\obj\Debug\schoool management system.exe
+E:\Csharp\Hero_Alam-2.6\schoool management system\schoool management system\obj\Debug\schoool management system.pdb
+E:\Csharp\Hero_Alam-2.6\schoool management system\schoool management system\obj\Debug\schoool_management_system.reg_form.resources
+F:\IDM\Compressed\Hero_Alam-2.5\schoool management system\schoool management system\obj\Debug\schoool_management_system.reg_form.resources
+D:\8th semester\Hero_Alam-2.9\schoool management system\schoool management system\bin\Debug\schoool management system.exe.config
+D:\8th semester\Hero_Alam-2.9\schoool management system\schoool management system\bin\Debug\schoool management system.exe
+D:\8th semester\Hero_Alam-2.9\schoool management system\schoool management system\bin\Debug\schoool management system.pdb
+D:\8th semester\Hero_Alam-2.9\schoool management system\schoool management system\obj\Debug\schoool management system.csprojAssemblyReference.cache
+D:\8th semester\Hero_Alam-2.9\schoool management system\schoool management system\obj\Debug\schoool_management_system.class_details_form.resources
+D:\8th semester\Hero_Alam-2.9\schoool management system\schoool management system\obj\Debug\schoool_management_system.Dashboard.resources
+D:\8th semester\Hero_Alam-2.9\schoool management system\schoool management system\obj\Debug\schoool_management_system.Employee_Details_Form.resources
+D:\8th semester\Hero_Alam-2.9\schoool management system\schoool management system\obj\Debug\schoool_management_system.Expences_details_form.resources
+D:\8th semester\Hero_Alam-2.9\schoool management system\schoool management system\obj\Debug\schoool_management_system.Form1.resources
+D:\8th semester\Hero_Alam-2.9\schoool management system\schoool management system\obj\Debug\schoool_management_system.Properties.Resources.resources
+D:\8th semester\Hero_Alam-2.9\schoool management system\schoool management system\obj\Debug\schoool_management_system.reg_form.resources
+D:\8th semester\Hero_Alam-2.9\schoool management system\schoool management system\obj\Debug\schoool_management_system.Salary_Details_Form.resources
+D:\8th semester\Hero_Alam-2.9\schoool management system\schoool management system\obj\Debug\schoool_management_system.Student_Registrationform.resources
+D:\8th semester\Hero_Alam-2.9\schoool management system\schoool management system\obj\Debug\schoool_management_system.teacher_details_form.resources
+D:\8th semester\Hero_Alam-2.9\schoool management system\schoool management system\obj\Debug\schoool management system.csproj.GenerateResource.cache
+D:\8th semester\Hero_Alam-2.9\schoool management system\schoool management system\obj\Debug\schoool management system.csproj.CoreCompileInputs.cache
+D:\8th semester\Hero_Alam-2.9\schoool management system\schoool management system\obj\Debug\schoool management system.exe
+D:\8th semester\Hero_Alam-2.9\schoool management system\schoool management system\obj\Debug\schoool management system.pdb
+D:\8th semester\Hero_Alam-2.9\schoool management system\schoool management system\obj\Debug\schoool_management_system.search_student_form.resources
+D:\8th semester\Hero_Alam-2.9\schoool management system\schoool management system\obj\Debug\schoool_management_system.Search_teacher.resources
+D:\8th semester\Hero_Alam-2.9\schoool management system\schoool management system\obj\Debug\schoool_management_system.search_employee.resources
+E:\Csharp\Hero_Alam-3.0\schoool management system\schoool management system\bin\Debug\schoool management system.exe.config
+E:\Csharp\Hero_Alam-3.0\schoool management system\schoool management system\bin\Debug\schoool management system.exe
+E:\Csharp\Hero_Alam-3.0\schoool management system\schoool management system\bin\Debug\schoool management system.pdb
+E:\Csharp\Hero_Alam-3.0\schoool management system\schoool management system\obj\Debug\schoool management system.csprojAssemblyReference.cache
+E:\Csharp\Hero_Alam-3.0\schoool management system\schoool management system\obj\Debug\schoool_management_system.class_details_form.resources
+E:\Csharp\Hero_Alam-3.0\schoool management system\schoool management system\obj\Debug\schoool_management_system.Dashboard.resources
+E:\Csharp\Hero_Alam-3.0\schoool management system\schoool management system\obj\Debug\schoool_management_system.Employee_Details_Form.resources
+E:\Csharp\Hero_Alam-3.0\schoool management system\schoool management system\obj\Debug\schoool_management_system.Expences_details_form.resources
+E:\Csharp\Hero_Alam-3.0\schoool management system\schoool management system\obj\Debug\schoool_management_system.Form1.resources
+E:\Csharp\Hero_Alam-3.0\schoool management system\schoool management system\obj\Debug\schoool_management_system.Properties.Resources.resources
+E:\Csharp\Hero_Alam-3.0\schoool management system\schoool management system\obj\Debug\schoool_management_system.reg_form.resources
+E:\Csharp\Hero_Alam-3.0\schoool management system\schoool management system\obj\Debug\schoool_management_system.Salary_Details_Form.resources
+E:\Csharp\Hero_Alam-3.0\schoool management system\schoool management system\obj\Debug\schoool_management_system.search_employee.resources
+E:\Csharp\Hero_Alam-3.0\schoool management system\schoool management system\obj\Debug\schoool_management_system.search_student_form.resources
+E:\Csharp\Hero_Alam-3.0\schoool management system\schoool management system\obj\Debug\schoool_management_system.Search_teacher.resources
+E:\Csharp\Hero_Alam-3.0\schoool management system\schoool management system\obj\Debug\schoool_management_system.Student_Registrationform.resources
+E:\Csharp\Hero_Alam-3.0\schoool management system\schoool management system\obj\Debug\schoool_management_system.teacher_details_form.resources
+E:\Csharp\Hero_Alam-3.0\schoool management system\schoool management system\obj\Debug\schoool management system.csproj.GenerateResource.cache
+E:\Csharp\Hero_Alam-3.0\schoool management system\schoool management system\obj\Debug\schoool management system.csproj.CoreCompileInputs.cache
+E:\Csharp\Hero_Alam-3.0\schoool management system\schoool management system\obj\Debug\schoool management system.exe
+E:\Csharp\Hero_Alam-3.0\schoool management system\schoool management system\obj\Debug\schoool management system.pdb
+E:\Csharp\Hero_Alam-3.0\schoool management system\schoool management system\obj\Debug\schoool_management_system.result_form.resources
+E:\Csharp\Hero_Alam-3.0\schoool management system\schoool management system\obj\Debug\schoool_management_system.fees_form.resources
+D:\8th semester\Hero_Alam-3.2\schoool management system\schoool management system\bin\Debug\schoool management system.exe.config
+D:\8th semester\Hero_Alam-3.2\schoool management system\schoool management system\bin\Debug\schoool management system.exe
+D:\8th semester\Hero_Alam-3.2\schoool management system\schoool management system\bin\Debug\schoool management system.pdb
+D:\8th semester\Hero_Alam-3.2\schoool management system\schoool management system\obj\Debug\schoool management system.csprojAssemblyReference.cache
+D:\8th semester\Hero_Alam-3.2\schoool management system\schoool management system\obj\Debug\schoool_management_system.class_details_form.resources
+D:\8th semester\Hero_Alam-3.2\schoool management system\schoool management system\obj\Debug\schoool_management_system.Dashboard.resources
+D:\8th semester\Hero_Alam-3.2\schoool management system\schoool management system\obj\Debug\schoool_management_system.Employee_Details_Form.resources
+D:\8th semester\Hero_Alam-3.2\schoool management system\schoool management system\obj\Debug\schoool_management_system.Expences_details_form.resources
+D:\8th semester\Hero_Alam-3.2\schoool management system\schoool management system\obj\Debug\schoool_management_system.fees_form.resources
+D:\8th semester\Hero_Alam-3.2\schoool management system\schoool management system\obj\Debug\schoool_management_system.Form1.resources
+D:\8th semester\Hero_Alam-3.2\schoool management system\schoool management system\obj\Debug\schoool_management_system.Notice.resources
+D:\8th semester\Hero_Alam-3.2\schoool management system\schoool management system\obj\Debug\schoool_management_system.Properties.Resources.resources
+D:\8th semester\Hero_Alam-3.2\schoool management system\schoool management system\obj\Debug\schoool_management_system.reg_form.resources
+D:\8th semester\Hero_Alam-3.2\schoool management system\schoool management system\obj\Debug\schoool_management_system.result_form.resources
+D:\8th semester\Hero_Alam-3.2\schoool management system\schoool management system\obj\Debug\schoool_management_system.Salary_Details_Form.resources
+D:\8th semester\Hero_Alam-3.2\schoool management system\schoool management system\obj\Debug\schoool_management_system.search_employee.resources
+D:\8th semester\Hero_Alam-3.2\schoool management system\schoool management system\obj\Debug\schoool_management_system.search_student_form.resources
+D:\8th semester\Hero_Alam-3.2\schoool management system\schoool management system\obj\Debug\schoool_management_system.Search_teacher.resources
+D:\8th semester\Hero_Alam-3.2\schoool management system\schoool management system\obj\Debug\schoool_management_system.Student_Registrationform.resources
+D:\8th semester\Hero_Alam-3.2\schoool management system\schoool management system\obj\Debug\schoool_management_system.teacher_details_form.resources
+D:\8th semester\Hero_Alam-3.2\schoool management system\schoool management system\obj\Debug\schoool management system.csproj.GenerateResource.cache
+D:\8th semester\Hero_Alam-3.2\schoool management system\schoool management system\obj\Debug\schoool management system.csproj.CoreCompileInputs.cache
+D:\8th semester\Hero_Alam-3.2\schoool management system\schoool management system\obj\Debug\schoool management system.exe
+D:\8th semester\Hero_Alam-3.2\schoool management system\schoool management system\obj\Debug\schoool management system.pdb
+D:\8th semester\Hero_Alam-3.3\schoool management system\schoool management system\bin\Debug\schoool management system.exe.config
+D:\8th semester\Hero_Alam-3.3\schoool management system\schoool management system\bin\Debug\schoool management system.exe
+D:\8th semester\Hero_Alam-3.3\schoool management system\schoool management system\bin\Debug\schoool management system.pdb
+D:\8th semester\Hero_Alam-3.3\schoool management system\schoool management system\obj\Debug\schoool management system.csprojAssemblyReference.cache
+D:\8th semester\Hero_Alam-3.3\schoool management system\schoool management system\obj\Debug\schoool_management_system.class_details_form.resources
+D:\8th semester\Hero_Alam-3.3\schoool management system\schoool management system\obj\Debug\schoool_management_system.Dashboard.resources
+D:\8th semester\Hero_Alam-3.3\schoool management system\schoool management system\obj\Debug\schoool_management_system.Employee_Details_Form.resources
+D:\8th semester\Hero_Alam-3.3\schoool management system\schoool management system\obj\Debug\schoool_management_system.Expences_details_form.resources
+D:\8th semester\Hero_Alam-3.3\schoool management system\schoool management system\obj\Debug\schoool_management_system.fees_form.resources
+D:\8th semester\Hero_Alam-3.3\schoool management system\schoool management system\obj\Debug\schoool_management_system.Form1.resources
+D:\8th semester\Hero_Alam-3.3\schoool management system\schoool management system\obj\Debug\schoool_management_system.Notice.resources
+D:\8th semester\Hero_Alam-3.3\schoool management system\schoool management system\obj\Debug\schoool_management_system.Properties.Resources.resources
+D:\8th semester\Hero_Alam-3.3\schoool management system\schoool management system\obj\Debug\schoool_management_system.reg_form.resources
+D:\8th semester\Hero_Alam-3.3\schoool management system\schoool management system\obj\Debug\schoool_management_system.result_form.resources
+D:\8th semester\Hero_Alam-3.3\schoool management system\schoool management system\obj\Debug\schoool_management_system.Salary_Details_Form.resources
+D:\8th semester\Hero_Alam-3.3\schoool management system\schoool management system\obj\Debug\schoool_management_system.search_employee.resources
+D:\8th semester\Hero_Alam-3.3\schoool management system\schoool management system\obj\Debug\schoool_management_system.search_student_form.resources
+D:\8th semester\Hero_Alam-3.3\schoool management system\schoool management system\obj\Debug\schoool_management_system.Search_teacher.resources
+D:\8th semester\Hero_Alam-3.3\schoool management system\schoool management system\obj\Debug\schoool_management_system.Student_Registrationform.resources
+D:\8th semester\Hero_Alam-3.3\schoool management system\schoool management system\obj\Debug\schoool_management_system.teacher_details_form.resources
+D:\8th semester\Hero_Alam-3.3\schoool management system\schoool management system\obj\Debug\schoool management system.csproj.GenerateResource.cache
+D:\8th semester\Hero_Alam-3.3\schoool management system\schoool management system\obj\Debug\schoool management system.csproj.CoreCompileInputs.cache
+D:\8th semester\Hero_Alam-3.3\schoool management system\schoool management system\obj\Debug\schoool management system.exe
+D:\8th semester\Hero_Alam-3.3\schoool management system\schoool management system\obj\Debug\schoool management system.pdb
+E:\Csharp\Hero_Alam-final_version\Hero_Alam-3.3\schoool management system\schoool management system\bin\Debug\schoool management system.exe.config
+E:\Csharp\Hero_Alam-final_version\Hero_Alam-3.3\schoool management system\schoool management system\bin\Debug\schoool management system.exe
+E:\Csharp\Hero_Alam-final_version\Hero_Alam-3.3\schoool management system\schoool management system\bin\Debug\schoool management system.pdb
+E:\Csharp\Hero_Alam-final_version\Hero_Alam-3.3\schoool management system\schoool management system\obj\Debug\schoool management system.csprojAssemblyReference.cache
+E:\Csharp\Hero_Alam-final_version\Hero_Alam-3.3\schoool management system\schoool management system\obj\Debug\schoool_management_system.class_details_form.resources
+E:\Csharp\Hero_Alam-final_version\Hero_Alam-3.3\schoool management system\schoool management system\obj\Debug\schoool_management_system.Dashboard.resources
+E:\Csharp\Hero_Alam-final_version\Hero_Alam-3.3\schoool management system\schoool management system\obj\Debug\schoool_management_system.Employee_Details_Form.resources
+E:\Csharp\Hero_Alam-final_version\Hero_Alam-3.3\schoool management system\schoool management system\obj\Debug\schoool_management_system.Expences_details_form.resources
+E:\Csharp\Hero_Alam-final_version\Hero_Alam-3.3\schoool management system\schoool management system\obj\Debug\schoool_management_system.fees_form.resources
+E:\Csharp\Hero_Alam-final_version\Hero_Alam-3.3\schoool management system\schoool management system\obj\Debug\schoool_management_system.Form1.resources
+E:\Csharp\Hero_Alam-final_version\Hero_Alam-3.3\schoool management system\schoool management system\obj\Debug\schoool_management_system.Notice.resources
+E:\Csharp\Hero_Alam-final_version\Hero_Alam-3.3\schoool management system\schoool management system\obj\Debug\schoool_management_system.Properties.Resources.resources
+E:\Csharp\Hero_Alam-final_version\Hero_Alam-3.3\schoool management system\schoool management system\obj\Debug\schoool_management_system.reg_form.resources
+E:\Csharp\Hero_Alam-final_version\Hero_Alam-3.3\schoool management system\schoool management system\obj\Debug\schoool_management_system.result_form.resources
+E:\Csharp\Hero_Alam-final_version\Hero_Alam-3.3\schoool management system\schoool management system\obj\Debug\schoool_management_system.Salary_Details_Form.resources
+E:\Csharp\Hero_Alam-final_version\Hero_Alam-3.3\schoool management system\schoool management system\obj\Debug\schoool_management_system.search_employee.resources
+E:\Csharp\Hero_Alam-final_version\Hero_Alam-3.3\schoool management system\schoool management system\obj\Debug\schoool_management_system.search_student_form.resources
+E:\Csharp\Hero_Alam-final_version\Hero_Alam-3.3\schoool management system\schoool management system\obj\Debug\schoool_management_system.Search_teacher.resources
+E:\Csharp\Hero_Alam-final_version\Hero_Alam-3.3\schoool management system\schoool management system\obj\Debug\schoool_management_system.Student_Registrationform.resources
+E:\Csharp\Hero_Alam-final_version\Hero_Alam-3.3\schoool management system\schoool management system\obj\Debug\schoool_management_system.teacher_details_form.resources
+E:\Csharp\Hero_Alam-final_version\Hero_Alam-3.3\schoool management system\schoool management system\obj\Debug\schoool management system.csproj.GenerateResource.cache
+E:\Csharp\Hero_Alam-final_version\Hero_Alam-3.3\schoool management system\schoool management system\obj\Debug\schoool management system.csproj.CoreCompileInputs.cache
+E:\Csharp\Hero_Alam-final_version\Hero_Alam-3.3\schoool management system\schoool management system\obj\Debug\schoool management system.exe
+E:\Csharp\Hero_Alam-final_version\Hero_Alam-3.3\schoool management system\schoool management system\obj\Debug\schoool management system.pdb
+D:\8th semester\Hero_Alam-Final-Stable\schoool management system\schoool management system\bin\Debug\schoool management system.exe.config
+D:\8th semester\Hero_Alam-Final-Stable\schoool management system\schoool management system\bin\Debug\schoool management system.exe
+D:\8th semester\Hero_Alam-Final-Stable\schoool management system\schoool management system\bin\Debug\schoool management system.pdb
+D:\8th semester\Hero_Alam-Final-Stable\schoool management system\schoool management system\obj\Debug\schoool management system.csprojAssemblyReference.cache
+D:\8th semester\Hero_Alam-Final-Stable\schoool management system\schoool management system\obj\Debug\schoool_management_system.class_details_form.resources
+D:\8th semester\Hero_Alam-Final-Stable\schoool management system\schoool management system\obj\Debug\schoool_management_system.Dashboard.resources
+D:\8th semester\Hero_Alam-Final-Stable\schoool management system\schoool management system\obj\Debug\schoool_management_system.Employee_Details_Form.resources
+D:\8th semester\Hero_Alam-Final-Stable\schoool management system\schoool management system\obj\Debug\schoool_management_system.Expences_details_form.resources
+D:\8th semester\Hero_Alam-Final-Stable\schoool management system\schoool management system\obj\Debug\schoool_management_system.fees_form.resources
+D:\8th semester\Hero_Alam-Final-Stable\schoool management system\schoool management system\obj\Debug\schoool_management_system.Form1.resources
+D:\8th semester\Hero_Alam-Final-Stable\schoool management system\schoool management system\obj\Debug\schoool_management_system.Notice.resources
+D:\8th semester\Hero_Alam-Final-Stable\schoool management system\schoool management system\obj\Debug\schoool_management_system.Properties.Resources.resources
+D:\8th semester\Hero_Alam-Final-Stable\schoool management system\schoool management system\obj\Debug\schoool_management_system.reg_form.resources
+D:\8th semester\Hero_Alam-Final-Stable\schoool management system\schoool management system\obj\Debug\schoool_management_system.result_form.resources
+D:\8th semester\Hero_Alam-Final-Stable\schoool management system\schoool management system\obj\Debug\schoool_management_system.Salary_Details_Form.resources
+D:\8th semester\Hero_Alam-Final-Stable\schoool management system\schoool management system\obj\Debug\schoool_management_system.search_employee.resources
+D:\8th semester\Hero_Alam-Final-Stable\schoool management system\schoool management system\obj\Debug\schoool_management_system.search_student_form.resources
+D:\8th semester\Hero_Alam-Final-Stable\schoool management system\schoool management system\obj\Debug\schoool_management_system.Search_teacher.resources
+D:\8th semester\Hero_Alam-Final-Stable\schoool management system\schoool management system\obj\Debug\schoool_management_system.Student_Registrationform.resources
+D:\8th semester\Hero_Alam-Final-Stable\schoool management system\schoool management system\obj\Debug\schoool_management_system.teacher_details_form.resources
+D:\8th semester\Hero_Alam-Final-Stable\schoool management system\schoool management system\obj\Debug\schoool management system.csproj.GenerateResource.cache
+D:\8th semester\Hero_Alam-Final-Stable\schoool management system\schoool management system\obj\Debug\schoool management system.csproj.CoreCompileInputs.cache
+D:\8th semester\Hero_Alam-Final-Stable\schoool management system\schoool management system\obj\Debug\schoool management system.exe
+D:\8th semester\Hero_Alam-Final-Stable\schoool management system\schoool management system\obj\Debug\schoool management system.pdb
